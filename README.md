@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me (I don't even know that myself
+- 📫 How to reach me (I don't even know that myself)
 
 <!---
 death-reload/death-reload is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
